@@ -52,9 +52,6 @@ Harte Stichpunkte in die Einführungen aufsparen --> hier nur ECTS erwähnen und
 ***Liebe Studierende,***
 
 
-
-Liebe Studierende,
-
 3-5 Sätze zu dem, was im Arbeitspaket auf die Studierenden zukommt und wo wir anknüpfen
 
 
