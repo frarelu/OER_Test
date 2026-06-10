@@ -1,44 +1,6 @@
 # OER_Test
 Repo for testing LiaScript for our usecase
-<!--
-@onload
 
-setTimeout(function() {
-  const checkbox = document.getElementById("lia-checkbox-google_translate")
-
-  checkbox.addEventListener("click", function(event) {
-    event.preventDefault();
-
-    // Show your custom confirmation dialog
-    const userConfirmed = confirm(
-      "Note on translation: This website uses Google Translate to translate content into different languages. Please note that when you use this function, data is transmitted to Google and processed there. Further information can be found in Google's Privacy Policy: https://policies.google.com/privacy?hl=de. Click OK to accept, or Cancel to abort."
-    );
-
-    if (!userConfirmed) {
-      event.stopImmediatePropagation();
-    }
-  }, true);
-
-}, 2000)
-
-@end
-
-language: de
-
-narrator: German male
-
-author: John Doe
-
-comment: **Super8 und Digitale Methoden**
-
-
-classroom: false
-classroom: disable
-sharing: off
-
-version: 0.0.1
-
--->
 # Willkommen zum Kurs TITEL XXX 
 
 Liebe Studierende,
